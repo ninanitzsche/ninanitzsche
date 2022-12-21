@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="formatOtherFileTypesWithIntelliJ" value="false" />
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1662111051874" />
+        <option name="name" value="oneandone" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/Downloads/Development_Access_Java_Code_Formatter_Profile.xml" />
+        <option name="selectedJavaProfile" value="Development Access Java Code Formatter Profile" />
+      </Settings>
+    </option>
+  </component>
+</project>
